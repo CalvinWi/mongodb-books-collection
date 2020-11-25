@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "5f8e93647a5941b394f93e59"
+  },
+  "Title": "Foundation",
+  "Author": "Isaac Asimov",
+  "Year of Publication": 1951,
+  "Fiction/NonFiction": "Fiction",
+  "Genre": "Fantasy",
+  "# of Pages": 399,
+  "Purchased?": "No"
+},{
+  "_id": {
+    "$oid": "5f8e93cc7a5941b394f93e5a"
+  },
+  "Title": "Brave New World",
+  "Author": "Aldous Huxley",
+  "Year of Publication": 1932,
+  "Fiction/NonFiction": "Fiction",
+  "Genre": "Science Fiction",
+  "# of Pages": 311,
+  "Purchased?": "No"
+},{
+  "_id": {
+    "$oid": "5f8e94de7a5941b394f93e5b"
+  },
+  "Title": "Neuromancer",
+  "Author": "William Gibson",
+  "Year of Publication": 1984,
+  "Fiction/NonFiction": "Fiction",
+  "Genre": "Science Fiction",
+  "# of Pages": 271,
+  "Purchased?": "No"
+},{
+  "_id": {
+    "$oid": "5f8e99827a5941b394f93e5c"
+  },
+  "Title": "Dragon's Egg",
+  "Author": "Robert L. Forward",
+  "Year of Publication": 1980,
+  "Fiction/NonFiction": "Fiction",
+  "Genre": "Science Fiction",
+  "# of Pages": 345,
+  "Purchased?": "No"
+},{
+  "_id": {
+    "$oid": "5f8e9b7b7a5941b394f93e5d"
+  },
+  "Title": "Why We Sleep",
+  "Author": "Matthew Walker, PhD",
+  "Year of Publication": 2018,
+  "Fiction/NonFiction": "NonFiction",
+  "Genre": "Science",
+  "# of Pages": 368,
+  "Purchased?": "No"
+},{
+  "_id": {
+    "$oid": "5f8e9bb17a5941b394f93e5e"
+  },
+  "Title": "Thing Explainer: Complicated Stuff in Simple Words",
+  "Author": "Randall Munroe",
+  "Year of Publication": 2015,
+  "Fiction/NonFiction": "NonFiction",
+  "Genre": "Science",
+  "# of Pages": 64,
+  "Purchased?": "No"
+},{
+  "_id": {
+    "$oid": "5f8e9bfb7a5941b394f93e5f"
+  },
+  "Title": "Children of Time",
+  "Author": "Adrian Tchaikovsky",
+  "Year of Publication": 2018,
+  "Fiction/NonFiction": "Fiction",
+  "Genre": "Science Fiction",
+  "# of Pages": 600,
+  "Purchased?": "No"
+},{
+  "_id": {
+    "$oid": "5f8e9c7c7a5941b394f93e60"
+  },
+  "Title": "The Name of the Wind",
+  "Author": "Patrick Rothfuss",
+  "Year of Publication": 2008,
+  "Fiction/NonFiction": "Fiction",
+  "Genre": "Fantasy",
+  "# of Pages": 662,
+  "Purchased?": "No"
+},{
+  "_id": {
+    "$oid": "5fbb931c0ff87bee7a579a03"
+  },
+  "Title": "The Golden Compass",
+  "Author": "Philip Pullman",
+  "Year of Publication": 1995,
+  "Fiction/NonFiction": "Fiction",
+  "Genre": "Fantasy",
+  "# of Pages": 399,
+  "Purchased?": "No"
+},{
+  "_id": {
+    "$oid": "5fbb93bd0ff87bee7a579a04"
+  },
+  "Title": "SPQR",
+  "Author": "Mary Beard",
+  "Year of Publication": 2015,
+  "Fiction/NonFiction": "NonFiction",
+  "Genre": "History",
+  "# of Pages": 608,
+  "Purchased?": "Yes"
+},{
+  "_id": {
+    "$oid": "5fbb941e0ff87bee7a579a05"
+  },
+  "Title": "Artemis",
+  "Author": "Andy Weir",
+  "Year of Publication": 2017,
+  "Fiction/NonFiction": "Fiction",
+  "Genre": "Science Fiction",
+  "# of Pages": 309,
+  "Purchased?": "Yes"
+},{
+  "_id": {
+    "$oid": "5fbb94a10ff87bee7a579a06"
+  },
+  "Title": "A Day in the Life of Ancient Rome",
+  "Author": "Alberto Angela",
+  "Year of Publication": 2009,
+  "Fiction/NonFiction": "NonFiction",
+  "Genre": "History",
+  "# of Pages": 379,
+  "Purchased?": "Yes"
+},{
+  "_id": {
+    "$oid": "5fbb95160ff87bee7a579a07"
+  },
+  "Title": "24 Hours in Ancient Rome",
+  "Author": "Philip Matyszak",
+  "Year of Publication": 2017,
+  "Fiction/NonFiction": "NonFiction",
+  "Genre": "History",
+  "# of Pages": 253,
+  "Purchased?": "Yes"
+},{
+  "_id": {
+    "$oid": "5fbb95740ff87bee7a579a08"
+  },
+  "Title": "Mistborn: The Final Empire",
+  "Author": "Brandon Sanderson",
+  "Year of Publication": 2006,
+  "Fiction/NonFiction": "Fiction",
+  "Genre": "Fantasy",
+  "# of Pages": 544,
+  "Purchased?": "No"
+}]
